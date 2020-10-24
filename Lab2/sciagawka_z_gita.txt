@@ -1,0 +1,14 @@
+git add plik
+Dodaje plik do poczekalni
+
+git commit -m "Opis"
+Tworzy commit z wybranym opisem
+
+git log --oneline
+Przedstawia historie repozytorium w skompresowanej formie
+
+git branch przyklad
+Tworzy nowego brancha o nazwie przyklad
+
+git swich przyklad
+Przelacza na brancha o nazwie przyklad
